@@ -1,8 +1,8 @@
-# This is a basic workflow to help you get started with Actions
+# Este é um workflow basico para ajudar a começar.
 
 name: CI
 
-# Controls when the workflow will run
+# Controles quando workflow rodar
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
